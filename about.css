@@ -107,7 +107,7 @@ gap: 1.5rem;
 }
 .team_img
 {
-    filter: saturate(0);
+    filter: saturate(50%);
 }
 .team_img:hover{
     filter: saturate(1);
